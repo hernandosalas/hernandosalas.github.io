@@ -1,10 +1,10 @@
 # TRAVEL
 
-| FLIGHTS | TRAVEL | HOTELS | CARS |
-| --- | ----------- | --- | ----------- |
-|<a href="https://nomadlist.com/climate-finder" target="_blank" rel="noopener noreferrer nofollow">Climate Finder</a>| <a href="https://www.lugless.com/" target="_blank" rel="noopener noreferrer nofollow">Lugless</a>  |   <a href="https://swimply.com/" target="_blank" rel="noopener noreferrer nofollow">Swimply</a>|<a href="https://www.getaround.com/" target="_blank" rel="noopener noreferrer nofollow">Getaround</a>|
-|<a href="https://www.google.com/travel/?authuser=0" target="_blank" rel="noopener noreferrer nofollow">Google Travel</a>| <a href="https://vertoe.com/search" target="_blank" rel="noopener noreferrer nofollow">Vertoe</a>  | <a href="https://www.resortpass.com/" target="_blank" rel="noopener noreferrer nofollow">Resortpass</a>|<a href="https://gigcarshare.com/" target="_blank" rel="noopener noreferrer nofollow">Gigcarshare</a>|
-|<a href="https://80days.me/" target="_blank" rel="noopener noreferrer nofollow">80days.me</a>|   | <a href="https://hotelcorporatecodes.com/" target="_blank" rel="noopener noreferrer nofollow">Hotel corporate codes</a>| <a href="https://turo.com/" target="_blank" rel="noopener noreferrer nofollow">Turo</a>|
+| FLIGHTS | TRAVEL | HOTELS | CARS | COVID | MAPS |
+| --- | ----------- | --- | ----------- | --- | ----------- |
+|<a href="https://nomadlist.com/climate-finder" target="_blank" rel="noopener noreferrer nofollow">Climate Finder</a>| <a href="https://www.lugless.com/" target="_blank" rel="noopener noreferrer nofollow">Lugless</a>  |   <a href="https://swimply.com/" target="_blank" rel="noopener noreferrer nofollow">Swimply</a>|<a href="https://www.getaround.com/" target="_blank" rel="noopener noreferrer nofollow">Getaround</a>|<a href="https://trutrip.co/covidentrycheck/" target="_blank" rel="noopener noreferrer nofollow">Can you travel Covid?</a>|<a href="https://www.google.com/maps/@37.8260284,-122.2873674,9z/data=!3m1!4b1!4m2!11m1!2s19PTt3K5YSsjRhrQ53AYqpCpeMz32A" target="_blank" rel="noopener noreferrer nofollow">Want to go</a>|
+|<a href="https://www.google.com/travel/?authuser=0" target="_blank" rel="noopener noreferrer nofollow">Google Travel</a>| <a href="https://vertoe.com/search" target="_blank" rel="noopener noreferrer nofollow">Vertoe</a>  | <a href="https://www.resortpass.com/" target="_blank" rel="noopener noreferrer nofollow">Resortpass</a>|<a href="https://gigcarshare.com/" target="_blank" rel="noopener noreferrer nofollow">Gigcarshare</a>|<a href="https://travelvitals.amexgbt.com/info" target="_blank" rel="noopener noreferrer nofollow">Travelvitals</a>|<a href="https://www.google.com/maps/@36.1498276,-120.2009683,7z/data=!3m1!4b1!4m2!11m1!2sFrJOJ-_scJiXb_w7P_cPSPfzw8AdmQ" target="_blank" rel="noopener noreferrer nofollow">Roadtrip</a>|
+|<a href="https://80days.me/" target="_blank" rel="noopener noreferrer nofollow">80days.me</a>|   | <a href="https://hotelcorporatecodes.com/" target="_blank" rel="noopener noreferrer nofollow">Hotel corporate codes</a>| <a href="https://turo.com/" target="_blank" rel="noopener noreferrer nofollow">Turo</a>|<a href="https://www.iatatravelcentre.com/world.php" target="_blank" rel="noopener noreferrer nofollow">Iatatravelcentre</a>|
 |<a href="https://www.flightsfrom.com/" target="_blank" rel="noopener noreferrer nofollow">Flightsfrom</a>|   |<a href="https://www.domainhotelsv.com/" target="_blank" rel="noopener noreferrer nofollow">Domain hotel sv</a>|<a href="https://www.cabana.life/book" target="_blank" rel="noopener noreferrer nofollow">Cabana RV</a>|
 |<a href="https://skiplagged.com/" target="_blank" rel="noopener noreferrer nofollow">Skiplagged</a>|   |<a href="https://www.airbnb.com/" target="_blank" rel="noopener noreferrer nofollow">Airbnb</a>|<a href="https://rvshare.com/" target="_blank" rel="noopener noreferrer nofollow">Rvshare</a>|
 |<a href="https://greatescape.co/" target="_blank" rel="noopener noreferrer nofollow">Greatescape</a>|   |<a href="https://hotelsabovepar.com/" target="_blank" rel="noopener noreferrer nofollow">Hotelsabovepar</a>|<a href="https://goingawesomeplaces.com/best-car-rental-coupon-codes-save-insane-amount-money" target="_blank" rel="noopener noreferrer nofollow">Rental coupon codes</a>|
@@ -24,11 +24,8 @@
 
 
 
-| COVID | MAPS |
-| --- | ----------- |
-|<a href="https://trutrip.co/covidentrycheck/" target="_blank" rel="noopener noreferrer nofollow">Can you travel Covid?</a>|<a href="https://www.google.com/maps/@37.8260284,-122.2873674,9z/data=!3m1!4b1!4m2!11m1!2s19PTt3K5YSsjRhrQ53AYqpCpeMz32A" target="_blank" rel="noopener noreferrer nofollow">Want to go</a>|
-|<a href="https://travelvitals.amexgbt.com/info" target="_blank" rel="noopener noreferrer nofollow">Travelvitals</a>|<a href="https://www.google.com/maps/@36.1498276,-120.2009683,7z/data=!3m1!4b1!4m2!11m1!2sFrJOJ-_scJiXb_w7P_cPSPfzw8AdmQ" target="_blank" rel="noopener noreferrer nofollow">Roadtrip</a>|
-|<a href="https://www.iatatravelcentre.com/world.php" target="_blank" rel="noopener noreferrer nofollow">Iatatravelcentre</a>|
+
+
 
 
 
