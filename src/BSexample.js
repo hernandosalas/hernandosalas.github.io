@@ -14,7 +14,7 @@ function BSexample() {
             <Row>11</Row>
             <Row>11</Row>
             <Row>
-              <a href="https://www.w3schools.com">Visit W3Schools.com!</a>
+            <a href="https://nomadlist.com/climate-finder" target="_blank" rel="noopener noreferrer nofollow">Climate Finder</a>
             </Row>
           </Col>
           <Col>TOOLS 2</Col>
