@@ -14,19 +14,19 @@ ReactDOM.render(
       <Navbar></Navbar>
       <Router basename={process.env.PUBLIC_URL}>
         <Switch>
-          <Route path="/tools">
+          <Route exact path="/tools">
             <LoadMarkdown name="https://raw.githubusercontent.com/hernandosalas/Bookmarks/main/tools.md"></LoadMarkdown>
           </Route>
-          <Route path="/entertainment">
+          <Route exact path="/entertainment">
             <LoadMarkdown name="https://raw.githubusercontent.com/hernandosalas/Bookmarks/main/entertainment.md"></LoadMarkdown>
           </Route>
-          <Route path="/programming">
+          <Route exact path="/programming">
             <LoadMarkdown name="https://raw.githubusercontent.com/hernandosalas/Bookmarks/main/programming.md"></LoadMarkdown>
           </Route>
-          <Route path="/travel">
+          <Route exact path="/travel">
             <LoadMarkdown name="https://raw.githubusercontent.com/hernandosalas/Bookmarks/main/travel.md"></LoadMarkdown>
           </Route>
-          <Route path="/bookmarks">
+          <Route exact path="/bookmarks">
             <LoadMarkdown name="https://raw.githubusercontent.com/hernandosalas/Bookmarks/main/bookmarks.md"></LoadMarkdown>
           </Route>
         </Switch>
