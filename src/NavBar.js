@@ -27,12 +27,18 @@ function NavBar() {
           <Nav.Link href="/bookmarks">Bookmarks</Nav.Link>
         </MenuItem>
         <MenuItem icon={<GrDocumentNotes />}>
-          <Nav.Link href="https://github.com/hernandosalas/Bookmarks/tree/main/Notes">
+          <Nav.Link
+            target="_blank"
+            href="https://github.com/hernandosalas/Bookmarks/tree/main/Notes"
+          >
             Notes
           </Nav.Link>
         </MenuItem>
         <MenuItem icon={<GoFileBinary />}>
-          <Nav.Link href="https://app.cacher.io/library/personal">
+          <Nav.Link
+            target="_blank"
+            href="https://app.cacher.io/library/personal"
+          >
             Cacher
           </Nav.Link>
         </MenuItem>
