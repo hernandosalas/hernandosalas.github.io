@@ -5,6 +5,7 @@ import { FaTools } from "react-icons/fa";
 import { ImHappy2, ImAirplane, ImBookmarks } from "react-icons/im";
 import { SiVisualstudio } from "react-icons/si";
 import { GrDocumentNotes } from "react-icons/gr";
+import { GoFileBinary } from "react-icons/go";
 
 function NavBar() {
   return (
@@ -28,6 +29,11 @@ function NavBar() {
         <MenuItem icon={<GrDocumentNotes />}>
           <Nav.Link href="https://github.com/hernandosalas/Bookmarks/tree/main/Notes">
             Notes
+          </Nav.Link>
+        </MenuItem>
+        <MenuItem icon={<GoFileBinary />}>
+          <Nav.Link href="https://app.cacher.io/library/personal">
+            Cacher
           </Nav.Link>
         </MenuItem>
       </Menu>
