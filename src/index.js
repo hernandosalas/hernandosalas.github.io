@@ -12,7 +12,11 @@ import Col from "react-bootstrap/Col";
 
 ReactDOM.render(
   <React.StrictMode>
-    <div>
+    <div
+      style={{
+        backgroundColor: "#1D1D1D"
+      }}
+    >
       <Row>
         <Col md={2}>
           <Navbar></Navbar>

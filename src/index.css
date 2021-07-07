@@ -12,16 +12,23 @@ code {
     monospace;
 }
 tr {
-  border-top: 1px solid #c6cbd1;
-  background: #fff;
+  border-top: 1px solid #3F4445;
+  background: #1D1D1D;
 }
 
 th,
 td {
   padding: 6px 13px;
-  border: 1px solid #dfe2e5;
+  border: 1px solid #3F4445;
+  color: #BEC5C0;
 }
 
 table tr:nth-child(2n) {
-  background: #f6f8fa;
+  background: #262829;
+}
+h1{
+  color: #BEC5C0;
+}
+.col-md-10{
+  background: #222425;
 }
